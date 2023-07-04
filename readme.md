@@ -10,6 +10,7 @@ While this is an itemization:
 > That's a note
 
 Simple text
+
 Box:
 ```
 test
